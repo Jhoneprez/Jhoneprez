@@ -90,7 +90,11 @@ https://github.com/Jhoneprez/analisis-mercado-analistas-datos
 
 ## 📜 Certificaciones
 
-* IBM Data Analytics Advanced (2026)
+* SQL Interactivo — Academia Desafio Latam (2026)
+* Introduccion a SQL — Academia Desafio Latam (2026)
+* Python: de cero a usuario — Coursera (2026)
+* Construccion de Bases de Datos con MYSQL — SENA(2026)
+* IBM Avanzatec - Certificado de Analítica de datos con IBM (2026)
 * IBM SkillsBuild Data Analytics Certificate (2026)
 * Análisis de Datos Básico — Universidad Tecnológica de Bolívar (2025)
 * Excel Avanzado — Open Academy Santander (2025)
