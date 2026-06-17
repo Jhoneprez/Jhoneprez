@@ -29,6 +29,7 @@ Combino experiencia en gestión documental y administración con análisis de da
 ### 📊 Análisis de Datos
 
 * Excel Avanzado
+* Google Sheets
 * Power BI
 * Python
 * SQL
@@ -48,6 +49,11 @@ Combino experiencia en gestión documental y administración con análisis de da
 * ERP Siesa Uno E
 * Microsoft Excel
 * Power BI
+
+### 💻 Entorno de Desarrollo Integrado (IDE)
+
+* JupyterLab
+* VS Code
 
 ---
 
