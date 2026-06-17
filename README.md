@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.png" alt="Banner John Erik Teherán Pereira">
+</p>
+
 # 👋 Hola, soy John Erik Teherán Pereira
 
 ## Analista de Gestión Documental | Analista de Datos en Formación
