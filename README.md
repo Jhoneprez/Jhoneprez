@@ -1,6 +1,6 @@
 # 👋 Hola, soy John Erik Teherán Pereira
 
-## Analista de Gestión Documental | Analista de Datos en Formación
+## Analista de Gestión Documental | Data Analyst | Power BI | Python | SQL
 
 📍 Cartagena, Colombia
 
