@@ -1,130 +1,117 @@
 # 👋 Hola, soy John Erik Teherán Pereira
 
-## Analista de Gestión Documental | Data Analyst | Power BI | Python | SQL
+### 📊 Analista de Gestión Documental | Data Analyst | Power BI | Python | SQL
 
 📍 Cartagena, Colombia
 
-Profesional en Administración de Negocios Internacionales con más de 10 años de experiencia en:
+Profesional en Administración de Negocios Internacionales con más de 10 años de experiencia en gestión documental, control normativo y optimización de procesos administrativos.
 
-✔ Gestión Documental  
-✔ Control Normativo  
-✔ Optimización de Procesos Administrativos  
-✔ Digitalización y Trazabilidad Documental
-
-Actualmente fortaleciendo mi perfil profesional en:
-
-📊 Análisis de Datos  
-📈 Business Intelligence  
-🐍 Python  
-📉 Power BI  
-🗄 SQL
-
-con el objetivo de transformar datos en información útil para la toma de decisiones.
+Actualmente estoy fortaleciendo mi perfil como Analista de Datos, aplicando herramientas como Excel, Power BI, Python y SQL para convertir datos en información estratégica que apoye la toma de decisiones y la mejora continua de los procesos organizacionales.
 
 ---
 
 ## 🚀 Sobre mí
 
-Combino experiencia administrativa y documental con herramientas modernas de análisis de datos para:
+Combino experiencia en gestión documental y administración con análisis de datos para:
 
-- Construcción de KPIs
-- Automatización de reportes
-- Dashboards interactivos
-- Optimización de procesos
-- Transformación digital
-- Soporte estratégico a la toma de decisiones
-
----
-
-# 🛠 Tecnologías y Herramientas
-
-### Análisis de Datos
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+* 📈 Construcción y seguimiento de KPIs
+* 📊 Desarrollo de dashboards interactivos
+* ⚡ Automatización de reportes
+* 🔍 Análisis y estructuración de información
+* 🏢 Optimización de procesos administrativos
+* 💡 Soporte a la toma de decisiones basada en datos
+* 🔄 Transformación digital y mejora continua
 
 ---
 
-### Gestión Documental
+## 🛠 Tecnologías y Herramientas
 
-- TRD
-- TVD
-- Gestión de Archivo
-- Digitalización Documental
-- Control Normativo
-- Trazabilidad Documental
+### 📊 Análisis de Datos
 
----
+* Excel Avanzado
+* Power BI
+* Python
+* SQL
 
-### Software
+### 📂 Gestión Documental
 
-- Excel Avanzado
-- Power BI
-- Python
-- SQL
-- Docuware
-- ERP Siesa Uno E
+* TRD (Tablas de Retención Documental)
+* TVD (Tablas de Valoración Documental)
+* Gestión de Archivo
+* Digitalización Documental
+* Trazabilidad Documental
+* Control Normativo
 
----
+### 💻 Software Empresarial
 
-# 📊 Proyecto Destacado
-
-## Análisis del Mercado Laboral para Analistas de Datos
-
-Proyecto realizado sobre más de 500 ofertas laborales para identificar:
-
-- Habilidades más demandadas
-- Tecnologías más solicitadas
-- Tendencias del mercado
-- Visualizaciones en Power BI
-
-### Tecnologías utilizadas
-
-- Excel
-- Power BI
-- Python
-- SQL
-
-### Repositorio
-
-👉 https://github.com/Jhoneprez/analisis-mercado-analistas-datos
+* DocuWare
+* ERP Siesa Uno E
+* Microsoft Excel
+* Power BI
 
 ---
 
-# 🎓 Formación Académica
+## 📊 Proyecto Destacado
 
-- Tecnología en Análisis y Desarrollo de Software – SENA (2025)
-- Especialización Tecnológica en Gestión de la Logística Internacional – SENA (2022)
-- Administrador de Negocios Internacionales – Corposucre (2021)
-- Tecnología en Gestión Logística – SENA
-- Tecnología en Gestión Naviera y Portuaria – TECNAR
+### Análisis del Mercado Laboral para Analistas de Datos
+
+Proyecto desarrollado sobre más de 500 ofertas laborales para identificar tendencias y habilidades demandadas en el mercado de análisis de datos.
+
+#### Actividades realizadas
+
+* Limpieza y transformación de datos
+* Análisis Exploratorio de Datos (EDA)
+* Construcción de indicadores
+* Visualización de datos
+* Desarrollo de dashboards en Power BI
+* Automatización de reportes en Excel
+
+#### Tecnologías utilizadas
+
+* Excel
+* Power BI
+* Python
+* SQL
+
+🔗 Repositorio:
+https://github.com/Jhoneprez/analisis-mercado-analistas-datos
 
 ---
 
-# 📜 Certificaciones
+## 🎓 Formación Académica
 
-- IBM Data Analytics Advanced (2026)
-- IBM SkillsBuild Data Analytics Certificate (2026)
-- Análisis de Datos Básico – UTB (2025)
-- Excel Avanzado – Open Academy Santander (2025)
-- Excel Completo – Cedesarrollo Comfenalco (2024)
+* Tecnología en Análisis y Desarrollo de Software — SENA (2025)
+* Especialización Tecnológica en Gestión de la Logística Internacional — SENA (2022)
+* Administrador de Negocios Internacionales — Corposucre (2021)
+* Tecnología en Gestión Logística — SENA
+* Tecnología en Gestión Naviera y Portuaria — TECNAR
 
 ---
 
-# 📫 Contacto
+## 📜 Certificaciones
 
-📧 jhoneprez@hotmail.com
+* IBM Data Analytics Advanced (2026)
+* IBM SkillsBuild Data Analytics Certificate (2026)
+* Análisis de Datos Básico — Universidad Tecnológica de Bolívar (2025)
+* Excel Avanzado — Open Academy Santander (2025)
+* Excel Completo — Cedesarrollo Comfenalco (2024)
+
+---
+
+## 🎯 Objetivo Profesional
+
+Consolidarme como Analista de Datos, integrando mi experiencia en gestión documental y procesos administrativos con herramientas de análisis, visualización y automatización para generar valor mediante el uso estratégico de la información.
+
+---
+
+## 📫 Contacto
+
+📧 [jhoneprez@hotmail.com](mailto:jhoneprez@hotmail.com)
 
 💼 LinkedIn:
-www.linkedin.com/in/john-erik-teheran-pereira-00120999
+[www.linkedin.com/in/john-erik-teheran-pereira-00120999](http://www.linkedin.com/in/john-erik-teheran-pereira-00120999)
 
 📍 Cartagena, Colombia
 
----
 
 ⭐ Siempre aprendiendo sobre Análisis de Datos, Power BI, Python y SQL.
