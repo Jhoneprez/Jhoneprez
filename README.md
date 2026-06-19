@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="tu-imagen-banner.png.png" alt="Banner de mi Portafolio" width="100%" >
+</p>
+
 # 👋 Hola, soy John Erik Teherán Pereira
 
 ### 📊 Analista de Gestión Documental | Data Analyst | Power BI | Python | SQL
